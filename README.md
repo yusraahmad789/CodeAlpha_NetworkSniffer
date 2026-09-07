@@ -1,4 +1,4 @@
-# CodeAlpha_NetworkSniffer
+#NetworkSniffer
 
 📌 Task 1 - Basic Network Sniffer
 Cyber Security Internship Project | CodeAlpha
